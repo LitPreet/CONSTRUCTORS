@@ -3,7 +3,7 @@ Constructor in C++ is a special method that is invoked automatically at the time
 Constructor does not have a return value, hence they do not have a return type.
 
 
-The prototype of Constructors is as follows:
+The Prototype of Constructors is as follows:
 
 
 <class-name> (list-of-parameters);
