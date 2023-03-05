@@ -1,5 +1,5 @@
                       // Simple programs of constructors 
-
+//C++ program
   
 #include<iostream>
 #include<string.h>
