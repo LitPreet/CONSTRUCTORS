@@ -1,4 +1,4 @@
-// Copy constructor
+// Copy Constructor
 //C++ program
 
 #include <iostream>
